@@ -24,5 +24,31 @@
             "address": "123 Applebee Lane",
             "email": "rhodenb@applebee.com"
         }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "price": "$1.00",
+            "available": 300
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "price": "$1.00",
+            "available": 250
+        },
+        {
+            "id": 3,
+            "name": "Orange",
+            "price": "$1.00",
+            "available": 200
+        },
+        {
+            "id": 4,
+            "name": "Molly's Donut Box",
+            "price": "$10.00",
+            "available": 20
+        }
     ]
 }
