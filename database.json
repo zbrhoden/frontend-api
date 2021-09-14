@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Dion Stoade",
+            "address": "6866 4th Court",
+            "email": "dstoade0@cornell.edu"
+        },
+        {
+            "id": 2,
+            "name": "Windy Thorneloe",
+            "address": "59924 Beilfuss Center",
+            "email": "wthorneloe1@usa.gov"
+        },
+        {
+            "id": 3,
+            "name": "Hillie Phillpotts",
+            "address": "21 Straubel Point",
+            "email": "hphillpotts2@rakuten.co.jp"
+        },
+        {
+            "id": 4,
+            "name": "Blake Rhoden",
+            "address": "123 Applebee Lane",
+            "email": "rhodenb@applebee.com"
+        }
+    ]
+}
