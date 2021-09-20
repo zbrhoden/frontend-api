@@ -30,25 +30,51 @@
             "id": 1,
             "name": "Apple",
             "price": "1.00",
+            "type": 2,
             "available": 300
         },
         {
             "id": 2,
             "name": "Banana",
             "price": "1.00",
+            "type": 2,
             "available": 250
         },
         {
             "id": 3,
             "name": "Orange",
             "price": "1.00",
+            "type": 2,
             "available": 200
         },
         {
             "id": 4,
             "name": "Molly's Donut Box",
             "price": "10.00",
+            "type": 3,
             "available": 20
+        }
+    ],
+    "producttype": [
+        {
+            "id": 1,
+            "description": "Vegetable"
+        },
+        {
+            "id": 2,
+            "description": "Fruit"
+        },
+        {
+            "id": 3,
+            "description": "Prepackaged Baked Goods"
+        },
+        {
+            "id": 4,
+            "description": "Candy"
+        },
+        {
+            "id": 5,
+            "description": "Soda"
         }
     ]
 }
