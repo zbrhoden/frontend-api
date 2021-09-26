@@ -1,77 +1,81 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Dion Stoade",
-            "address": "6866 4th Court",
-            "email": "dstoade0@cornell.edu"
-        },
-        {
-            "id": 2,
-            "name": "Windy Thorneloe",
-            "address": "59924 Beilfuss Center",
-            "email": "wthorneloe1@usa.gov"
-        },
-        {
-            "id": 3,
-            "name": "Hillie Phillpotts",
-            "address": "21 Straubel Point",
-            "email": "hphillpotts2@rakuten.co.jp"
-        },
-        {
-            "id": 4,
-            "name": "Blake Rhoden",
-            "address": "123 Applebee Lane",
-            "email": "rhodenb@applebee.com"
-        }
-    ],
-    "products": [
-        {
-            "id": 1,
-            "name": "Apple",
-            "price": "1.00",
-            "type": 2     
-        },
-        {
-            "id": 2,
-            "name": "Banana",
-            "price": "1.00",
-            "type": 2    
-        },
-        {
-            "id": 3,
-            "name": "Orange",
-            "price": "1.00",
-            "type": 2         
-        },
-        {
-            "id": 4,
-            "name": "Molly's Donut Box",
-            "price": "10.00",
-            "type": 3
-        }
-    ],
-    "producttype": [
-        {
-            "id": 1,
-            "description": "Vegetable"
-        },
-        {
-            "id": 2,
-            "description": "Fruit"
-        },
-        {
-            "id": 3,
-            "description": "Prepackaged Baked Goods"
-        },
-        {
-            "id": 4,
-            "description": "Candy"
-        },
-        {
-            "id": 5,
-            "description": "Soda"
-        }
-    ],
-    "orders": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Dion Stoade",
+      "address": "6866 4th Court",
+      "email": "dstoade0@cornell.edu"
+    },
+    {
+      "id": 2,
+      "name": "Windy Thorneloe",
+      "address": "59924 Beilfuss Center",
+      "email": "wthorneloe1@usa.gov"
+    },
+    {
+      "id": 3,
+      "name": "Hillie Phillpotts",
+      "address": "21 Straubel Point",
+      "email": "hphillpotts2@rakuten.co.jp"
+    },
+    {
+      "id": 4,
+      "name": "Blake Rhoden",
+      "address": "123 Applebee Lane",
+      "email": "rhodenb@applebee.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": "1.00",
+      "type": 2
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "price": "1.00",
+      "type": 2
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "price": "1.00",
+      "type": 2
+    },
+    {
+      "id": 4,
+      "name": "Molly's Donut Box",
+      "price": "10.00",
+      "type": 3
+    }
+  ],
+  "producttype": [
+    {
+      "id": 1,
+      "description": "Vegetable"
+    },
+    {
+      "id": 2,
+      "description": "Fruit"
+    },
+    {
+      "id": 3,
+      "description": "Prepackaged Baked Goods"
+    },
+    {
+      "id": 4,
+      "description": "Candy"
+    },
+    {
+      "id": 5,
+      "description": "Soda"
+    }
+  ],
+  "orders": [
+    {
+     
+    }
+  ]
 }
