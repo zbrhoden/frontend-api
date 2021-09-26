@@ -29,25 +29,25 @@
     {
       "id": 1,
       "name": "Apple",
-      "price": 1.00,
+      "price": "1.00",
       "type": 2
     },
     {
       "id": 2,
       "name": "Banana",
-      "price": 1.00,
+      "price": "1.00",
       "type": 2
     },
     {
       "id": 3,
       "name": "Orange",
-      "price": 1.00,
+      "price": "1.00",
       "type": 2
     },
     {
       "id": 4,
       "name": "Molly's Donut Box",
-      "price": 10.00,
+      "price": "10.00",
       "type": 3
     }
   ],
