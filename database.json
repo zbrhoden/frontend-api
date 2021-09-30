@@ -30,24 +30,28 @@
       "id": 1,
       "name": "Apple",
       "price": "1.00",
+      "image": "https://res.cloudinary.com/drtf9afv0/image/upload/v1632843809/Frontend%20Capstone/apple-fruit-png-20022_aivznk.png",
       "type": 2
     },
     {
       "id": 2,
       "name": "Banana",
       "price": "1.00",
+      "image": "https://res.cloudinary.com/drtf9afv0/image/upload/v1632843840/Frontend%20Capstone/png-clipart-banana-banana_p0xij2.png",
       "type": 2
     },
     {
       "id": 3,
       "name": "Orange",
       "price": "1.00",
+      "image": "https://res.cloudinary.com/drtf9afv0/image/upload/v1632843834/Frontend%20Capstone/purepng.com-orange-orangeorangefruitbitter-orangeorangesclip-art-17015273374288pjtg_pvf5km.png",
       "type": 2
     },
     {
       "id": 4,
       "name": "Molly's Donut Box",
       "price": "10.00",
+      "image": "https://res.cloudinary.com/drtf9afv0/image/upload/v1632843845/Frontend%20Capstone/109-1095549_box-of-donuts-png-transparent-png_wlqyum.png",
       "type": 3
     }
   ],
@@ -74,8 +78,21 @@
     }
   ],
   "orders": [
+    {},
     {
-     
+      "id": 1633040515081,
+      "order_date": "9/30/2021, 5:21:55 PM",
+      "total_quantity": 2,
+      "total_price": 2,
+      "items": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": "1.00",
+          "type": 2,
+          "quantity": 2
+        }
+      ]
     }
   ]
 }
